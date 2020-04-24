@@ -1,3 +1,3 @@
 # on-learning
 
-A playground repository for exploration and personal development
+A playground repository for exploration and personal development.
